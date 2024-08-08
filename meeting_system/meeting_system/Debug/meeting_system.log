@@ -1,0 +1,4 @@
+﻿  Developer.cpp
+C:\Users\Dell\source\repos\week04\homework\meeting_system\meeting_system\Developer.cpp(137,25): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\Dell\source\repos\week04\homework\meeting_system\meeting_system\Developer.cpp(302,30): warning C4018: “<=”: 有符号/无符号不匹配
+  meeting_system.vcxproj -> C:\Users\Dell\source\repos\week04\homework\meeting_system\Debug\meeting_system.exe
